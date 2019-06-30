@@ -1,4 +1,4 @@
-package com.example.teststagedrolloutandroid
+package com.jafreela.teststagedrolloutandroid
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
